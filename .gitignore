@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Source/editing files (don't upload)
+*.psd
+*.psb
+*.tif
+*.tiff
+*.raw
+*.cr2
+*.cr3
+*.nef
+*.arw
+*.dng
+*.lrcat
+*.lrdata
+*.xmp
+
+# Temp export folders
+**/_tmp_thumb_jpg/
+**/_tmp_full_jpg/
+**/original/
+**/exports/
+**/backup/
+mw-photography-website/
